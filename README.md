@@ -1,4 +1,5 @@
-Superstore Sales Dashboard – Power BI Project
+# Superstore Sales Dashboard – Power BI Project
+This Power-BI Project Showcase a sales Dashboard buit using Superstore Sales Data. It Provides Keey Insights into sales trends, regional performance, and product category distribution, helping stakeholders quickly assess business performance.
 
 # Dataset
 
